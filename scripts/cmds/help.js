@@ -54,8 +54,8 @@ module.exports = {
     }
 
     // ===== FULL HELP MENU =====
-    const botName = "MAIKO";
-    const creator = "SIYUU";
+    const botName = "𝒀𝑶𝑼𝑹 𝒁𝑨𝑹𝑨 𝑩𝑩𝒁 💋";
+    const creator = "𝑬𝒗𝒂𝒏";
 
     // Collect commands by category
     const categories = {};
